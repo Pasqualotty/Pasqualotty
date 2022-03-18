@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pasqualotty
 - 👀 I’m interested in learn how to code
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on a job hahaha
+- 💞️ I’m looking to collaborate on a codeteam hahaha
 - 📫 How to reach me matheus_pasqualotti@yahoo.com.br 
 
 <!---
