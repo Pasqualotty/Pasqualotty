@@ -1,4 +1,4 @@
-## Oiii eu sou o Matheus Pasqualotti , atualmente programando em java script!
+## Product Owner, Agile, Vibecoder!
 <div align="center">
   <a href="https://github.com/Pasqualotty">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pasqualotty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
